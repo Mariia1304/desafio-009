@@ -36,6 +36,25 @@
     #sketch (foto aquí: movil y desktop):
     
     #Una descripción de las secciones, layout, estructura HTML y clases CSS:
+       las seciones de html y clases css:
+    
+    - barra de navegacion
+        - logo-navbar.png
+       
+    - section history:
+        - class history
+        - class title
+        - class history__inner-top--background
+        - class history__inner-top
+    - section nosotros:
+        - class nosotros
+        - nosotros__inner
+        - nosotros__inner--background
+    - section negocio
+        - class negocio
+        - class button_tia-tomate 
+    - footer
+       - logo-footer.png
     
      
      
