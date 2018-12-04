@@ -1,4 +1,4 @@
-### Requesitos generales:
+# Requesitos generales:
 
   - Una barra de navegación y un footer.
   - 3 secciones:
@@ -33,7 +33,10 @@
      - Imagenes (se encuentran en carperta assets/img)
 
      
-     sketch (foto aquí: movil y desktop)
+    #sketch (foto aquí: movil y desktop):
+    
+    #Una descripción de las secciones, layout, estructura HTML y clases CSS:
+    
      
      
     #estructura de directorio:
@@ -52,6 +55,10 @@
           - carpeta img que contiene todos los imagenes
           - carpeta fonts que contiene los fonts.
           - carpeta colors que contiene colores.
+
+          
+   
     
+     
      
     
