@@ -2,7 +2,7 @@
 
   - Una barra de navegación y un footer.
   - 3 secciones:
-      - La primera, es la sección Historia()
+      - La primera, es la sección History()
       - La segunda seccion, Nosotros(quien trabaja en empresa)
       - La tercera sección Negocio(invita a comprar)
 
