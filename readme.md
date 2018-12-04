@@ -34,13 +34,13 @@
 
      
     #sketch (foto aquí: movil y desktop):
-    [sketch-Desktop](assets/img/sketch-desktop.jpg)
+    [sketch-Desktop](Assets/img/sketch-desktop.jpg)
     
-    ![sketch-Desktop](assets/img/sketch-desktop.jpg)
+    ![sketch-Desktop](Assets/img/sketch-desktop.jpg)
     
-    [sketch-movil](assets/img/sketch-movil.jpg)
+    [sketch-movil](Assets/img/sketch-movil.jpg)
     
-    ![sketch-movil](assets/img/sketch-movil.jpg)
+    ![sketch-movil](Assets/img/sketch-movil.jpg)
     
     #Una descripción de las secciones, layout, estructura HTML y clases CSS:
        las seciones de html y clases css:
