@@ -34,12 +34,20 @@
 
      
     #sketch (foto aquí: movil y desktop):
+    [sketch-Desktop](assets/img/sketch-desktop.jpg)
+    
+    ![sketch-Desktop](assets/img/sketch-desktop.jpg)
+    
+    [sketch-movil](assets/img/sketch-movil.jpg)
+    
+    ![sketch-movil](assets/img/sketch-movil.jpg)
     
     #Una descripción de las secciones, layout, estructura HTML y clases CSS:
        las seciones de html y clases css:
     
     - barra de navegacion
-        - logo-navbar.png
+        - class navbar_tia-tomate
+        
        
     - section history:
         - class history
@@ -54,7 +62,8 @@
         - class negocio
         - class button_tia-tomate 
     - footer
-       - logo-footer.png
+       - class footer_tia-tomate
+       
     
      
      
