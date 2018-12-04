@@ -70,19 +70,11 @@
     #estructura de directorio:
      
     ###proyecto(desafio-009):
+    
+    ![estructura de directorio](Assets/img/estructura-de-directorio.png)
      
      
-       - archivo index.html
-       - README.md
-       - carpeta assets:
-       
-          - carpeta css que contiene archivo
-              - style.css
-          - carpeta js que contiene archivo contiene
-              - script.js  
-          - carpeta img que contiene todos los imagenes
-          - carpeta fonts que contiene los fonts.
-          - carpeta colors que contiene colores.
+    
 
           
    
