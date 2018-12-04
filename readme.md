@@ -25,10 +25,10 @@
        - Raleway-ExtraLight (1 Titulo: De nuestro cariño)
      - Colores:
        - Jelly Bean #E56353 (Background-color de columna principal de cada seccion )
-       - Granite Gray #686963 (footer, 1-ra seccion parrafo y titulo "Desde limache...", 2-da seccion titulos y párrafos, boton, fonts de navbar)
-       - Nickel #707070(backgruond-color seccion Historia, top-derecho)
-       - Snow #FAFAFA(background-color de 1ra seccion "Desde Limache", 2-da seccion(bajo de "nosotros"), backgroun-color de boton)
-       - White #FFFFFF (Titulos "de nuestro catiño", "Nosotros", background-color de iconos de redes sociales)
+       - Granite Gray #686963 (footer, class "history__inner-bottom", section nosotros: color de titulos y párrafos,color de font de boton, fonts de navbar)
+       - Nickel #707070(backgruond-color de history__inner-top--background)
+       - Snow #FAFAFA(font color de history__inner-top)
+       - White #FFFFFF ()
       
      - Imagenes (se encuentran en carperta assets/img)
 
