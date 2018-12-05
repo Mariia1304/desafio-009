@@ -1,0 +1,97 @@
+Global Styles*/
+/*Font hierarchy*/
+
+/* Navbar */
+
+.navbar_tia-tomate {
+    background-color: #FFFFFF;
+}
+.navbar-nav>li>a {
+    color: #686963;
+    text-shadow: none;
+}
+.icon-bar {
+    background-color: #686963;
+}
+.navbar-brand img {
+    max-width: 140px;
+}
+.nav>li>a:hover {
+    background-color: #E56353;
+    color: #FFFFFF;
+}
+.navbar {
+    margin-bottom: 0;
+}
+/*History*/
+
+.history {
+    background-color: #FFFFFF;
+}
+.history__title {
+    background-color: #E56353;
+}
+.history__inner-top {
+    background-color: #707070;
+    height: 450px;
+}
+.history__inner-top--background {
+    background-image: url("../img/img-history.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.history__inner-bottom {
+    height: 450px;
+}
+.history__inner-bottom--background {
+    background-image: url("../img/our-tomatoes.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+/*Nosotros*/
+
+.nosotros {
+    background-color: #FFFFFF;
+}
+.nosotros__title {
+    background-color: #E56353;
+}
+.nosotros__inner-top--background {
+    background-image: url("../img/javiera-kunstmann.png");
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.nosotros__inner-top {
+    height: 450px;
+}
+.nosotros__inner-bottom--background {
+    background-image: url("../img/roberto-pacheco.png");
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.nosotros__inner-bottom {
+    height: 450px;
+}
+/*Negocio*/
+
+.negocio {
+    background-color: #E56353;
+    text-align: center;
+}
+/*Button*/
+
+.button_tia-tomate {
+    background-color: #FAFAFA;
+    border-radius: 30px;
+    padding: 1.5rem 5rem;
+    color: #686963;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+/* Footer

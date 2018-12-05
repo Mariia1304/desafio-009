@@ -26,9 +26,9 @@
      - Colores:
        - Jelly Bean #E56353 (Background-color de columna principal de cada seccion )
        - Granite Gray #686963 (footer, class "history__inner-bottom", section nosotros: color de titulos y párrafos,color de font de boton, fonts de navbar)
-       - Nickel #707070(backgruond-color de history__inner-top--background)
+       - Nickel #707070(backgruond-color de history__inner-top--background,boton)
        - Snow #FAFAFA(font color de history__inner-top)
-       - White #FFFFFF ()
+       - White #FFFFFF (background-color of navbar and history__inner-bottom, font color history, nosotros, negocio)
       
      - Imagenes (se encuentran en carperta assets/img)
 
@@ -43,26 +43,31 @@
     ![sketch-movil](Assets/img/sketch-movil.jpg)
     
     #Una descripción de las secciones, layout, estructura HTML y clases CSS:
-       las seciones de html y clases css:
+   
     
     - barra de navegacion
-        - class navbar_tia-tomate
+        - class navbar__tia-tomate
         
        
     - section history:
         - class history
-        - class title
+        - class history__title 
         - class history__inner-top--background
         - class history__inner-top
+        - class history__inner-bottom--background
+        - class history__inner-bottom
     - section nosotros:
         - class nosotros
-        - nosotros__inner
-        - nosotros__inner--background
+        - class nosotros__title
+        - nosotros__inner-top
+        - nosotros__inner-top--background
+        - nosotros__inner-bottom
+        - nosotros__inner-bottom--background
     - section negocio
         - class negocio
-        - class button_tia-tomate 
+        - class button__tia-tomate 
     - footer
-       - class footer_tia-tomate
+       - class footer__tia-tomate
        
     
      
