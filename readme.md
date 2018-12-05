@@ -2,7 +2,7 @@
 
   - Una barra de navegación y un footer.
   - 3 secciones:
-      - La primera, es la sección History()
+      - La primera, es la sección History(histori de empresa)
       - La segunda seccion, Nosotros(quien trabaja en empresa)
       - La tercera sección Negocio(invita a comprar)
 
@@ -24,13 +24,13 @@
        - Raleway-Bold (Títulos)
        - Raleway-ExtraLight (1 Titulo: De nuestro cariño)
      - Colores:
-       - Jelly Bean #E56353 (Background-color de columna principal de cada seccion )
-       - Granite Gray #686963 (footer, class "history__inner-bottom", section nosotros: color de titulos y párrafos,color de font de boton, fonts de navbar)
-       - Nickel #707070(backgruond-color de history__inner-top--background,boton)
-       - Snow #FAFAFA(font color de history__inner-top)
-       - White #FFFFFF (background-color of navbar and history__inner-bottom, font color history, nosotros, negocio)
+       - Jelly Bean #E56353 (seccion History class history__title(background-color) )
+       - Granite Gray #686963 (seccion footer(background-color), section footer class button__tia-tomate(color de font), section nosotros class nosotros__inner-top y nosotros__inner-bottom(color de fonts titulos y parrafos), section history class history__inner-bottom(color de fonts titulo y parrafo), section barra de navegacion class navbar__tia-tomate (color de font de inners) )
+       - Nickel #707070(section history class history__inner-top(background-color))
+       - Snow #FAFAFA(section history class history__inner-top(color de font titulo y parrafo), section nosotros class nosotros__inner-top--background y nosotros__inner-bottom--background(background-color))
+       - White #FFFFFF (section barra de navegacion(background-color), section history class history__title(color de font de titulo) class history__inner-bottom(background-color),section nosotros class nosotros__title(color de font de título), section negocio class negocio(color de font título) classbutton__tia-tomate(background-color) )
       
-     - Imagenes (se encuentran en carperta assets/img)
+     - Imagenes (se encuentran en carperta Assets/img)
 
      
     #sketch (foto aquí: movil y desktop):
